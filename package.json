@@ -1,6 +1,7 @@
 {
   "name": "control-gastos",
   "private": true,
+  "homepage":"https://jorki3.github.io/react-control-presupuesto",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
